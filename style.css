@@ -1,0 +1,20 @@
+html{
+    height:100%;
+}
+
+body{
+    background-image: linear-gradient(to right, #d4fc79 0%, #96e6a1 100%);
+}
+
+h1{
+    font-size: 3rem;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+img{
+    height: 400px !important;
+    width: 100% !important;
+    border-radius: 10px;
+}
